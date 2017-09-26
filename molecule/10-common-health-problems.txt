@@ -1,0 +1,16 @@
+A: I feel absolutely horrible. My temperature is 41 degrees Celsius, and I've got a headache and a runny nose.
+B: Do you have any other symptoms?
+A: I've also got a terrible stomach-ache. Is my face still swollen?
+B: Just a little. Has your toothache gone now?
+A: Yes, for the most part. It doesn't feel as bad as my other ailments, anyway.
+B: How about your tongue? Does it still hurt?
+A: I think it's already healed. I scalded it on the hot coffee a few days ago.
+B: You haven't had much luck lately, have you?
+A: No, but I'm sure I'll get better soon.
+B: When's the last time you took your tablets?
+A: I took the red ones just before lunch and the white ones just after lunch.
+B: I think it's time you took another dose of each. What would you like to drink with them?
+A: Just some water, please. Do you have any ointment for my nose? It feels so itchy after blowing my nose so much.
+B: Sure, I'll just go and get it now. What would you like to eat? Some soup?
+A: That sounds good.
+B: Soup always makes me feel better when I'm sick. I hope it makes you feel better too.
