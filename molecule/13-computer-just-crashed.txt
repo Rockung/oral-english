@@ -1,0 +1,19 @@
+Caroline: This computer!
+Aaron:    What seems to be the problem?
+Caroline: My computer just crashed again for the third time today!
+Aaron:    What were you doing when it crashed?
+Caroline: I was just opening up an attachement in an email about winning the lottery.
+Aaron:    I think that might have been a virus.
+Caroline: Oh, no! I thought it seemed a bit strange.
+Aaron:    What kind of computer do you have, a Mac or a PC?
+Caroline: It's a PC. Doesn't everyone have a PC in the office?
+Aaron:    No, some people have Macs now, too.
+Caroline: What's the difference?
+Aaron:    PCs often crash from viruses, but it's nearly impossible to get a virus from a Mac.
+Caroline: I didn't know that.
+Aaron:    Has your computer turned back on yet?
+Caroline: Yes.
+Aaron:    Did you end up losing any of your work?
+Caroline: Fortunately, I saved my work right before it crashed, so it should be OK.
+Aaron:    You should probably call the IT department and have them check your computer for viruses.
+Caroline: That's a good idea. I'll call them now. Thanks for your help!
