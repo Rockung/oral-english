@@ -1,37 +1,18 @@
 Kelly: Do you want to go out for dinner tonight?
 Nick:  Sure. Have you got anywhere in mind?
-Kelly: I'm starving, so maybe we could go 
-       somewhere with large portions.
-Nick:  That Italian restaurant in the city center
-       always has large portions. Do you want to
-			 go there?
-Kelly: I'm not really in the mood for Italian 
-       actually. I was thinking about something
-			 a bit spicy.
-Nick:  If you want spicy food, then I'd recommend 
-       going to a Thai, Indian, or Chinese 
-			 restaurant. How about that Chinese buffet 
-			 on Cowley Road?
-Kelly: I really like that restaurant; you get a 
-       lot for your money there. But, they've 
-			 westernized their food, so it's not 
-			 actually that spicy.
-Nick:  You're right. Most of their dishes have 
-       sweet sauces. We could try that Indian 
-			 restaurant just down the road from us.
-Kelly: The Taj? They're a bit expensive, but 
-       they do serve large portions of very hot 
-			 food.
+Kelly: I'm starving, so maybe we could go somewhere with large portions.
+Nick:  That Italian restaurant in the city center always has large portions. Do you want to go there?
+Kelly: I'm not really in the mood for Italian actually. I was thinking about something a bit spicy.
+Nick:  If you want spicy food, then I'd recommend going to a Thai, Indian, or Chinese restaurant. How about that Chinese buffet on Cowley Road?
+Kelly: I really like that restaurant; you get a lot for your money there. But, they've westernized their food, so it's not actually that spicy.
+Nick:  You're right. Most of their dishes have sweet sauces. We could try that Indian restaurant just down the road from us.
+Kelly: The Taj? They're a bit expensive, but they do serve large portions of very hot food.
 Nick:  The Taj it is then.
-Kelly: Shall we bring our own bottle of wine to 
-       save some money?
+Kelly: Shall we bring our own bottle of wine to save some money?
 Nick:  They'll still charge us a corkage fee.
-Kelly: That's right. It'll probably work out to 
-       be about the same then, anyway.
-Nick:  Don't worry about money. I'll treat you 
-       tonight.
+Kelly: That's right. It'll probably work out to be about the same then, anyway.
+Nick:  Don't worry about money. I'll treat you tonight.
 Kelly: Are you sure? We could go Dutch.
-Nick:  No, I'll pay. It's my turn anyway. You 
-       paid last time.
+Nick:  No, I'll pay. It's my turn anyway. You paid last time.
 Kelly: I won't argue with that! Let's go!
  

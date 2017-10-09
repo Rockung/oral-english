@@ -2,33 +2,17 @@ Colin, Abby
 
 C: I have good news!
 A: What is it?
-C: I have an interview with an IT company on
-   Wednesday!
-A: That's fantastic! Have you prepared for the
-   interview?
-C: Not really. I have just looked over my CV
-   a few times.
+C: I have an interview with an IT company on Wednesday!
+A: That's fantastic! Have you prepared for the interview?
+C: Not really. I have just looked over my CV a few times.
 A: Let's practice a few questions.
 C: Ok. Ask away!
-A: What kind of applicant do you think we are
-   looking for at our company?
-C: The successful applicant must be hardworking,
-   responsible, and honest.
-A: Good. What makes you think that you would be
-   a success in this position?
-C: I would do well in this position because I
-   have four years of experience working in this
-   field, I am good at what I do, and I am easy
-   to work with.
+A: What kind of applicant do you think we are looking for at our company?
+C: The successful applicant must be hardworking, responsible, and honest.
+A: Good. What makes you think that you would be a success in this position?
+C: I would do well in this position because I have four years of experience working in this field, I am good at what I do, and I am easy to work with.
 A: Ok, What are your salary expectations?
-C: Oh, I haven't thought about that before. I
-   guess I should. Well, to be honest, I don't
-   mind if I start with a low salary because I 
-   am rather desperate for work right now!
-A: That might not be the best thing to say to an
-   interviewer. You shouldn't ask for too much 
-   or too little.
-C: But I have no idea how much freelance IT 
-   consultants earn!
-A: That's something you should research before
-   you go to the interview.
+C: Oh, I haven't thought about that before. I guess I should. Well, to be honest, I don't mind if I start with a low salary because I am rather desperate for work right now!
+A: That might not be the best thing to say to an interviewer. You shouldn't ask for too much or too little.
+C: But I have no idea how much freelance IT consultants earn!
+A: That's something you should research before you go to the interview.
