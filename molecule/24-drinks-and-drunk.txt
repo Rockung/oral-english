@@ -1,0 +1,27 @@
+S: Come on, have a drink with us!
+J: Well, OK. I guess it is happy hour. What are you guys drink?
+S: I'm having a whisky coke, Gavin is having a Long Island Iced Tea, and Olivia is having an Irish coffee.
+J: That's quite a mix. Can I see the wine list?
+S: Don't you like to drink cocktails?
+J: I can't drink vodka because it goes straight to my head.
+S: How about whiskey?
+J: Whiskey doesn't sit with me too well, either. Trust me, red wine is the best choice for me.
+S: How many glasses of red wine do you need to drink to get drunk?
+J: I don't know. I haven't been drunk for a long time.
+S: You're such a sensible drinker.
+J: How many cocktails does it take to get you drunk?
+S: I don't know. I'm so drunk already that I've forgotten how many I've had!
+J: You're going to have a big hangover tomorrow, aren't you?
+S: Probably. But I know how to cure a hangover, so it's ok.
+J: How do you do that?
+S: I just need to take an aspirin with a glass of water tonight, go to sleep, wake up, have a few cups of coffee, and then I'm sorted.
+J: How are you getting home tonight?
+S: I'll call a cab. I never drink alcohol if I have to drive.
+J: That's the most sensible thing you've said so far.
+S: Maybe we're more alike than I thought!
+
+
+drinks beverages
+soft drinks
+Alcohol:     Ginger beer, Vodka, Spirits, Gin, Wine, Whisky, Cocktail, Beer
+Non-Alcohol: Lemenade, Cola, Coffee, Tea, Tonic, Orange juice, Coke
