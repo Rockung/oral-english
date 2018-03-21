@@ -1,11 +1,3 @@
-A: 
-B:
-A: 
-B:
-A: 
-B:
-A: 
-B:
 A: Good afternoon, sir, is there anything I can help you with today?
 B: Umm...Yeah, I'm looking for a nice gift to give my girlfriend. Our fifth anniversary's next Friday.
 A: Well, I would be happy to assist you in choosing the perfect gift for her. Is there anything particular that you have in mind?
@@ -21,6 +13,3 @@ B: Well, actually, I was thinking about asking Jess to marry me. I've just been 
 A: Well, sir, I believe your fifth anniversary is a great time to propost!
 B: Okay, I've decided I'm going to pop the question!
 A: Fabulous! We should look at engagement rings then! Now that's a whole other section
-B:
-A: 
-B:
